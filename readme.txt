@@ -10,3 +10,7 @@ GIT has a mutable index called stage
 
 creating a new branch is quick
 
+creatomg a new branch is quick & simple.
+
+
+
